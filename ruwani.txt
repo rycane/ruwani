@@ -1,0 +1,17 @@
+! Title: Sri Lanka Adblock List
+! Description: A custom adblock filter list for Sri Lanka targeting local advertisements and trackers.
+! Version: 1.0
+! Last Updated: 2025-11-05
+! Author: rycane
+! Homepage: [Optional URL for more info or updates]
+
+! Block all advertisements from newsfirst.lk
+||cdn.newsfirst.lk/advertisements/*
+
+! Block advertisements from sinhala.adaderana.lk
+||sinhala.adaderana.lk/images/adv_creatives/*
+||sinhala.adaderana.lk/images/adv_creatives/*.gif
+##.ad-container-class
+
+! Block dynamic image advertisements from www.aruna.lk
+||www.aruna.lk/_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Faruna-81457.appspot.com%2Fo%2Fsliders%252FeTJT3Rb2RauqGc6lA9Ug%3Falt%3Dmedia%26token%3D18f16a8a-0aba-4e68-93ab-8fd4e4d35d04&w=*&q=60
