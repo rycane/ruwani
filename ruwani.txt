@@ -3,7 +3,7 @@
 ! Version: 1.0
 ! Last Updated: 2025-11-05
 ! Author: rycane
-! Homepage: [Optional URL for more info or updates]
+! Homepage: https://github.com/rycane/ruwani
 
 ! Block all advertisements from newsfirst.lk
 ||cdn.newsfirst.lk/advertisements/*
