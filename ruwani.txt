@@ -1,4 +1,4 @@
-! Title: Sri Lanka Adblock List
+! Title: ruwani: Sri Lanka Adblock List
 ! Description: A custom adblock filter list for Sri Lanka targeting local advertisements and trackers.
 ! Version: 1.0
 ! Last Updated: 2025-11-06
