@@ -5,6 +5,8 @@
 ! Author: rycane
 ! Homepage: https://github.com/rycane/ruwani
 
+! -------------------- Filters--------------------------
+
 !newsfirst.lk
 ||cdn.newsfirst.lk/advertisements/*
 
